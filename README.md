@@ -1,6 +1,6 @@
-# 📊 E-Commerce Sales & Customer Analytics
+#  E-Commerce Sales & Customer Analytics
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing an E-Commerce sales dataset to identify business insights related to revenue performance, customer behavior, logistics efficiency, product demand, and customer satisfaction.
 
@@ -8,7 +8,7 @@ The objective is to leverage data analytics techniques to uncover trends, optimi
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 The analysis aims to address the following key business challenges:
 
@@ -21,7 +21,7 @@ The analysis aims to address the following key business challenges:
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 * Python
 * Pandas
@@ -32,7 +32,7 @@ The analysis aims to address the following key business challenges:
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 The dataset contains order-level information from an e-commerce platform, including:
 
@@ -52,7 +52,7 @@ The dataset contains order-level information from an e-commerce platform, includ
 
 ---
 
-## 🧹 Data Cleaning & Preprocessing
+##  Data Cleaning & Preprocessing
 
 The following data preparation steps were performed:
 
@@ -65,7 +65,7 @@ The following data preparation steps were performed:
 
 ---
 
-## 📈 Analysis Performed
+##  Analysis Performed
 
 ### 1. Financial Performance Analysis
 
@@ -143,7 +143,7 @@ The following data preparation steps were performed:
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 * Increase inventory allocation for high-performing categories.
 * Improve order fulfillment and shipment tracking processes.
@@ -154,13 +154,13 @@ The following data preparation steps were performed:
 
 ---
 
-## 📊 Project Outcome
+##  Project Outcome
 
 The analysis provides valuable insights into sales performance, customer behavior, logistics efficiency, and product demand. The findings can help the business improve operational efficiency, enhance customer satisfaction, and support long-term sustainable growth.
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Build an interactive Power BI dashboard.
 * Develop sales forecasting models.
@@ -170,7 +170,7 @@ The analysis provides valuable insights into sales performance, customer behavio
 
 ---
 
-## 👤 Author
+##  Author
 
 **Tanushree Vijaykar**
 
